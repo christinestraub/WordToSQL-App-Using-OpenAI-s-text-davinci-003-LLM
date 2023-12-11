@@ -17,7 +17,8 @@ To use the WordToSQL App, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/christinestraub/WordToSQL-App-Using-OpenAI-s-text-davinci-003-LLM.git   ```
+   git clone https://github.com/christinestraub/WordToSQL-App-Using-OpenAI-s-text-davinci-003-LLM.git
+   ```
 
 2. Install the required dependencies:
 
