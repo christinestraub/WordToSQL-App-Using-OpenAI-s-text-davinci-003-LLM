@@ -43,10 +43,6 @@ To use the WordToSQL App, follow these steps:
    SELECT * FROM employees;
    ```
 
-## Contributing
-
-We welcome contributions from the community! If you find any issues or have ideas for improvements, please submit a pull request or open an issue.
-
 ## Disclaimer
 
 Please note that the WordToSQL App is a demonstration of OpenAI's text-davinci-003 model and may not cover all SQL use cases. Use the generated SQL statements responsibly, and always verify their correctness before executing them on a production database.
